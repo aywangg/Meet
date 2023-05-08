@@ -1,0 +1,6 @@
+const mockData = [
+    {},
+    {}
+];
+
+export { mockData };
